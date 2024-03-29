@@ -1,0 +1,86 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Gushue tops Saskatchewan's McEwen for 3rd straight Brier title, record-tying 6th overall | CBC Sports",
+      "description": "Brad Gushue became the first man to skip teams to six Canadian men's curling championships with a 9-5 win over Saskatchewan's Mike McEwen in Regina. Gushue, third Mark Nichols and lead Geoff Walker won the sixth Briers of their careers and third straight to m…",
+      "url": "http://www.cbc.ca/sports/olympics/winter/curling/brier-semifinal-final-regina-march-10-1.7139488",
+      "urlToImage": "https://i.cbc.ca/1.7139931.1710128469!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cur-men-brier-20240310.JPG",
+      "publishedAt": "2024-03-11T10:07:20.7494362Z",
+      "content": "Brad Gushue further cemented his place in Canadian curling history Sunday.\r\nHe became the first man to skip teams to six national men's championships with a 9-5 win over Saskatchewan's Mike McEwen in… [+4952 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Sports News | Breaking & Latest Sports News | Reuters",
+      "description": "Find latest sports news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "url": "https://www.reuters.com/sports/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=179",
+      "publishedAt": "2024-03-11T05:22:18.186483Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "John Fanta, Michael Cohen",
+      "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+      "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+      "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2024-02-29T20:59:30Z",
+      "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "Josh Fordham",
+      "title": "Manchester United release statement after journalists ‘banned’ from press conference...",
+      "description": "Manchester United explained why four journalists were banned from an Erik ten Hag press conference on Tuesday. Sky Sports chief reporter Kaveh Solhekhol, the Manchester Evening News’ Samuel L…",
+      "url": "https://talksport.com/football/1666142/man-utd-journalists-banned-press-conference-erik-ten-hag/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/10/228f511f-c84a-48e8-b067-5c7277d90984.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2023-12-05T12:12:06Z",
+      "content": "Manchester United explained why four journalists were banned from an Erik ten Hag press conference on Tuesday.\r\nSky Sports chief reporter Kaveh Solhekhol, the Manchester Evening News' Samuel Luckhurs… [+820 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "New Micah Parsons Show ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.6381564Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": " Mikal Bridges Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.3882176Z",
+      "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters Graphics",
+      "title": "Reuters Graphics - Charts, Maps, Interactive Graphics and Videos",
+      "description": "The latest world news - politics, sports, culture, science and environment - from our graphics journalists in Singapore, Bangalore, London and New York.",
+      "url": "https://www.reuters.com/graphics/",
+      "urlToImage": "https://www.reuters.com/graphics/cdn/img/home.jpg",
+      "publishedAt": "2020-12-21T00:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "nrk", "name": "NRK" },
+      "author": "NRK",
+      "title": "De siste sportsnyhetene fra NRK",
+      "description": "Her får du de siste sportsnyhetene fra NRK.",
+      "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16799080.1.16799080",
+      "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+      "publishedAt": "2019-08-14T09:09:42Z",
+      "content": "10. mars2024kl.18:34Kun 2 poeng skilte topp fire etter første omgang i Holmenkollen søndag. Blant dem var Raw Air-leder Eirin Maria Kvandal, som hoppet 225.5 meter med lavest fart av alle i første om… [+1333 chars]"
+    }
+  ]
+}
